@@ -1,3 +1,7 @@
+User-agent: GrokBot
+User-agent: xAI-SearchBot
+Allow: /
+
 User-agent: OAI-SearchBot
 Allow: /
 
