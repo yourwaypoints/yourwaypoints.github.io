@@ -1,0 +1,35 @@
+# My Waypoints
+
+> My Waypoints is a free web-based GPS mapping application for recording, saving, sharing, and re-navigating live tracks and waypoints. It is designed for hikers, outdoor enthusiasts, boaters, cyclists, wildlife explorers, guided tour operators, and travel bloggers who want to document routes on a live map, add notes and photos, control privacy, and share public links.
+
+My Waypoints lets users start a recording session, snap GPS waypoints (current location or manual lat/long), stop the session, add notes to each point, view connected track lines with distance and elevation, make sessions public or private, and share a URL. It also supports a global map of public pinned locations and broader map areas (cities, trails, lakes, coastal channels, diving spots, etc.) where users can leave comments and pictures. Social features include public profiles, friend connections, notifications, and private messages.
+
+Key capabilities:
+- Live GPS track recording with visual connecting lines
+- Manual waypoint entry by coordinates
+- Distance between points and elevation data
+- Notes, comments, and pictures on waypoints and areas
+- Private vs public visibility controls
+- Shareable public route URLs for re-tracing or navigation
+- Global map of user-contributed places of interest
+- Intended for trails, coastal waters, lakes, fishing spots, dive sites, city landmarks, and tour routes
+
+Primary entry points:
+- Landing / product information page: https://yourwaypoints.github.io/
+- Live application (map, recording, sessions): https://go.yourwaypoints.com/
+
+## Core Pages
+
+- [My Waypoints landing page](https://yourwaypoints.github.io/): Full product description, how-it-works instructions, feature list, intended users, FAQ, and user testimonials
+- [Live My Waypoints app](https://go.yourwaypoints.com/): Interactive map for starting/stopping waypoint recording sessions, adding coordinates, viewing saved sessions, notes, privacy controls, and sharing
+
+## Features & Concepts
+
+- [How recording works](https://yourwaypoints.github.io/): Start recording → red snap button for waypoints → stop → add notes → make public and share URL → reopen later to re-trace the line
+- [Map Areas](https://yourwaypoints.github.io/): Broad regions (cities, trails, mountain ranges, lakes, ocean areas) shown as blue circles; can be public or private; open for comments and pictures
+- [Pinned Locations](https://yourwaypoints.github.io/): Specific points (landmarks, restaurants, fishing spots, dive sites, trail points) created by snap or coordinates; public or private
+- [FAQ](https://yourwaypoints.github.io/): Confirms visual track lines, water/boating use, distance measurement, and always-available elevation
+
+## Optional
+
+- [GPS.gov – Global Positioning System](https://gps.gov/): Official reference for the underlying GPS infrastructure used by the application
